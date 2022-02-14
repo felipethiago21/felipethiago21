@@ -1,6 +1,6 @@
-### Olá! Eu sou o Felipe Thiago 😃
+# Olá! Eu sou o Felipe Thiago 😃
 ## Sou formado em Gestão da Tecnologia da Informação, alguns anos de experiência na área.
-# Atualmente estou me especializando em Front-End.
+### Atualmente estou me especializando em Front-End.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-thiago-c-c-oliveira-2b62981a0/)
 
