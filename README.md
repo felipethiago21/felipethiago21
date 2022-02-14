@@ -6,7 +6,7 @@
 ![felipethiago21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dracula)
 
 
-## Tecnologias que eu utilizo em meu dia a dia
+## Tecnologias utilizadas em meu dia a dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
