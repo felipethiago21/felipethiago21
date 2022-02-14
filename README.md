@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Felipe Thiago 😃
-##Sou formado em Gestão da Tecnologia da Informação, alguns anos de experiência na área.
-#Atualmente estou me especializando em Front-End.
+## Sou formado em Gestão da Tecnologia da Informação, alguns anos de experiência na área.
+# Atualmente estou me especializando em Front-End.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-thiago-c-c-oliveira-2b62981a0/)
 
 ![felipethiago21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dracula)
 
 
-##Tecnologias que eu utilizo em meu dia a dia
+## Tecnologias que eu utilizo em meu dia a dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
