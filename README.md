@@ -7,6 +7,8 @@
 
 
 ## Tecnologias utilizadas em meu dia a dia
+### Projetos recentes
+### <a href="https://felipethiago21.github.io/FacebookAppLandingPage/">Responsive Facebook App Landing Page</a> / <a href="https://felipethiago21.github.io/crudAutorizacoes/">Responsive School Autorization System</a>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
