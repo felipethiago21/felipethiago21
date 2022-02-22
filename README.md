@@ -6,7 +6,7 @@
 ![felipethiago21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dracula)
 
 <a href="https://github.com/felipethiago21">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethiago21&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethiago21&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ## Tecnologias utilizadas em meu dia a dia
