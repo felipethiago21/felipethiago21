@@ -1,7 +1,8 @@
 # Olá! Eu sou o Felipe Thiago 😃
 ### Atualmente estou me especializando em Front-End.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-thiago-c-c-oliveira-2b62981a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-thiago-c-c-oliveira-2b62981a0/)](https://www.linkedin.com/in/felipe-thiago-c-c-oliveira-2b62981a0/)
+[![Gmail Badge](https://img.shields.io/badge/-felipethiagorx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipethiagorx@gmail.com)](mailto:felipethiagorx@gmail.com)
 
 ![felipethiago21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dracula)
 
