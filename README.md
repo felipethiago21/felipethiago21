@@ -12,6 +12,7 @@
 
 ## Tecnologias utilizadas em meu dia a dia
 ### Projetos recentes 
+### <a href="https://felipethiago21.github.io/obxBSproject/">OneBitX Bootstrap Page</a>
 ### <a href="https://felipethiago21.github.io/cadastroAtividades/">Interface de cadastro de atividades</a>
 ### <a href="https://felipethiago21.github.io/gymday/">Website Gym Day</a>
 ### <a href="https://felipethiago21.github.io/myMusic//">Responsive Website MyMusic</a>
