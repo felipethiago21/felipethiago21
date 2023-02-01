@@ -17,7 +17,6 @@
 ### <a href="https://felipethiago21.github.io/gymday/">Website Gym Day</a>
 ### <a href="https://felipethiago21.github.io/myMusic//">Responsive Website MyMusic</a>
 ### <a href="https://felipethiago21.github.io/myPlaceSite/">Responsive Website myPlace</a>
-### <a href="https://felipethiago21.github.io/FacebookAppLandingPage/">Responsive Facebook App Landing Page</a>
 ### <a href="https://felipethiago21.github.io/crudAutorizacoes/">Responsive School Autorization System Front</a>
 ### <a href="https://felipethiago21.github.io/formularioCadastroFull/">Complete registration form</a> 
 
