@@ -61,7 +61,8 @@ Website institucional com estrutura clara, responsiva e moderna.
 
 ## 📊 GitHub Stats
 
-![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dark)
+![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ---
 
