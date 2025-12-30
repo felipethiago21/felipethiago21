@@ -18,32 +18,23 @@ Atualmente atuo como **Analista de Sistemas Pleno na Track&Field**.
 ## 🛠️ Tecnologias & Habilidades Técnicas
 
 ### 💻 Linguagens & Desenvolvimento
-- HTML | CSS | JavaScript
-- Node.js | PHP | Python | C#
-- SQL
-- React
-- APIs REST
+HTML • CSS • JavaScript • Node.js • PHP • Python • C# • SQL • React • APIs REST
 
 ### 🎨 UX / UI
-- UX & UI Design
-- Figma
+UX & UI • Figma
 
 ### 📊 Dados & Plataformas
-- Power BI
-- Power Apps
+Power BI • Power Apps
 
 ### ⚙️ Ferramentas & Metodologias
-- Git & GitHub
-- Scrum
-- ServiceNow
-- Clean Code
+Git • GitHub • Scrum • ServiceNow • Clean Code
 
 ---
 
 ## 🚀 Projetos em destaque
 
 🔹 **Sales Analytics API**  
-Projeto Full-Stack com foco em desenvolvimento de API REST.
+Projeto Full Stack com foco em desenvolvimento de API REST.
 
 🔹 **Relógio Digital**  
 Projeto front-end focado em lógica JavaScript e responsividade.
@@ -61,12 +52,13 @@ Website institucional com estrutura clara, responsiva e moderna.
 
 ## 📊 GitHub Stats
 
-![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipethiago21&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethiago21&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
