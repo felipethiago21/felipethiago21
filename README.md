@@ -66,6 +66,10 @@ Website institucional com estrutura clara, responsiva e moderna.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipethiago21&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
 ## 📫 Contato
 
 📧 **Email:** felipethiagox@gmail.com  
