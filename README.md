@@ -1,34 +1,71 @@
-# Olá! Eu sou o Felipe Thiago 😃
-### Atualmente estou me especializando em Front-End.
+## 👋 Olá! Eu sou o Felipe Thiago
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-thiago-c-c-oliveira-2b62981a0/)](https://www.linkedin.com/in/felipe-thiago-oliveira-2b62981a0/)
-[![Gmail Badge](https://img.shields.io/badge/-felipethiagorx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipethiagorx@gmail.com)](mailto:felipethiagorx@gmail.com)
+Desenvolvedor **Full Stack** e **Analista de Sistemas Pleno**, com foco em criar soluções eficientes, escaláveis e bem estruturadas.  
+Atualmente atuo como **Analista de Sistemas Pleno na Track&Field**.
 
-![felipethiago21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dracula)
+---
 
-<a href="https://github.com/felipethiago21">
-  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipethiago21&layout=compact&langs_count=7&theme=dracula"/>
+## 💼 Sobre mim
 
+- 🏢 Analista de Sistemas Pleno na **Track&Field**
+- 💻 Desenvolvedor **Full Stack**
+- 🎯 Experiência em desenvolvimento de sistemas, integrações e interfaces modernas
+- 🧠 Forte atenção a **Clean Code**, boas práticas e organização
+- 🚀 Em constante evolução técnica e profissional
 
-## Tecnologias utilizadas em meu dia a dia
-### Projetos recentes 
-### <a href="https://felipethiago21.github.io/relogioDigital/">Relógio Digital</a>
-### <a href="https://felipethiago21.github.io/obxBSproject/">OneBitX Bootstrap Page</a>
-### <a href="https://felipethiago21.github.io/cadastroAtividades/">Interface de cadastro de atividades</a>
-### <a href="https://felipethiago21.github.io/gymday/">Website Gym Day</a>
-### <a href="https://felipethiago21.github.io/myMusic//">Responsive Website MyMusic</a>
-### <a href="https://felipethiago21.github.io/myPlaceSite/">Responsive Website myPlace</a>
-### <a href="https://felipethiago21.github.io/crudAutorizacoes/">Responsive School Autorization System Front</a>
-### <a href="https://felipethiago21.github.io/formularioCadastroFull/">Complete registration form</a> 
+---
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  
-</div>
-  
+## 🛠️ Tecnologias & Habilidades Técnicas
+
+### 💻 Linguagens & Desenvolvimento
+- HTML | CSS | JavaScript
+- Node.js | PHP | Python | C#
+- SQL
+- React
+- APIs REST
+
+### 🎨 UX / UI
+- UX & UI Design
+- Figma
+
+### 📊 Dados & Plataformas
+- Power BI
+- Power Apps
+
+### ⚙️ Ferramentas & Metodologias
+- Git & GitHub
+- Scrum
+- ServiceNow
+- Clean Code
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **Sales Analytics API**  
+Projeto Full-Stack com foco em desenvolvimento de API REST.
+
+🔹 **Relógio Digital**  
+Projeto front-end focado em lógica JavaScript e responsividade.
+
+🔹 **OneBitX Bootstrap Page**  
+Landing page desenvolvida com Bootstrap, priorizando layout e experiência do usuário.
+
+🔹 **Interface de Cadastro de Atividades**  
+Sistema com foco em organização visual, formulários e usabilidade.
+
+🔹 **Website Gym Day**  
+Website institucional com estrutura clara, responsiva e moderna.
+
+---
+
+## 📊 GitHub Stats
+
+![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipethiago21&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+📧 **Email:** felipethiagox@gmail.com  
+💼 **GitHub:** https://github.com/felipethiago21
